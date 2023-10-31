@@ -41,6 +41,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TiZir&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
+<br>
 
 <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
   <img src="https://github.com/TiZir/TiZir/blob/main/Image/pin.gif" width="50px" style="margin-right: 10px;">
@@ -80,6 +81,7 @@
     </a>
 </div>
 
+<br>
 
 <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
   <img src="https://github.com/TiZir/TiZir/blob/main/Image/contact.gif" width="60px" style="margin-right: 10px;">
