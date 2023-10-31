@@ -1,7 +1,7 @@
 <h1 align="center">Hello there!</h1>
 
 <div class="container" style="font-size: 20px">
-    <img src="/home/tikhonov/TiZir/Image/hbw.gif" align="right" width="300px" height="300px">&nbsp;
+    <img src="https://github.com/TiZir/TiZir/blob/main/Image/hi.gif" align="right" width="300px" height="300px">&nbsp;
     <h4>I am Danila Tikhonov, Go developer, currently working and living in Moscow, Russia.</h4>
     <h4>I have a BA in Information Science and Computation Technology from <a href="https://mpei.ru/Pages/default.aspx">MPEI</a>.</h4>
     <h4>I'm learning Go through small projects on the side.</h4>
@@ -31,7 +31,7 @@
 <br>
 
 <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
-  <img src="/home/tikhonov/TiZir/Image/animat-barchart-color.gif" width="70px" style="margin-right: 10px;">
+  <img src="https://github.com/TiZir/TiZir/blob/main/Image/stat_git.gif" width="70px" style="margin-right: 10px;">
   <h2 style="margin: 0;">My Github Stats</h2>
 </div>
 
@@ -43,7 +43,7 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
-  <img src="/home/tikhonov/TiZir/Image/giphy.gif" width="50px" style="margin-right: 10px;">
+  <img src="https://github.com/TiZir/TiZir/blob/main/Image/pin.gif" width="50px" style="margin-right: 10px;">
   <h2 style="margin: 0;">Pinned Projects</h2>
 </div>
 <br>
@@ -70,7 +70,7 @@
 <br>
 
 <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
-  <img src="/home/tikhonov/TiZir/Image/preloader.gif" width="40px" style="margin-right: 10px;">
+  <img src="https://github.com/TiZir/TiZir/blob/main/Image/cur.gif" width="40px" style="margin-right: 10px;">
   <h2 style="margin: 0;">Currently working on</h2>
 </div>
 <br>
@@ -82,7 +82,7 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
-  <img src="/home/tikhonov/TiZir/Image/contact-us1.gif" width="60px" style="margin-right: 10px;">
+  <img src="https://github.com/TiZir/TiZir/blob/main/Image/contact.gif" width="60px" style="margin-right: 10px;">
   <h2 style="margin: 0;">Contact Me</h2>
 </div>
 
@@ -99,7 +99,7 @@
 <br>
 
 <div  align="center" style="width: 100%; max-height: 500px;">
-    <img src="/home/tikhonov/TiZir/Image/1544781084_114494.gif" style="max-height: 100%; width: auto;" alt="utkarshpathrabe">
+    <img src="https://github.com/TiZir/TiZir/blob/main/Image/bye.gif" style="max-height: 100%; width: auto;" alt="utkarshpathrabe">
 </div>
 
 <!--LINKS-->
