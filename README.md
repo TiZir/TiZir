@@ -2,9 +2,10 @@
 
 <div class="container" style="font-size: 20px">
     <img src="https://github.com/TiZir/TiZir/blob/main/Image/hi.gif" align="right" width="300px" height="300px">&nbsp;
-    <h4>I am Danila Tikhonov, Go developer, currently working and living in Moscow, Russia.</h4>
-    <h4>I have a BA in Information Science and Computation Technology from <a href="https://mpei.ru/Pages/default.aspx">MPEI</a>.</h4>
-    <h4>I'm learning Go through small projects on the side.</h4>
+    <h4>I'm Danila Tikhonov, currently working and living in Moscow, Russia.</h4>
+    <h4>I've a bachelor's and Master's degree in Information Science and Computing technology, studied at <a href="https://mpei.ru/Pages/default.aspx">MPEI</a>.</h4>
+    <h4>I work as a data engineer: SQL PL/SQL (Postgresql, Oracle, Greenplum), I am engaged in ETL processes, BI data showcase development.</h4>
+    <h4>I am striving to become a backend developer in the go language.</h4>
     <!-- <h4>Currently working on ...a <a href="">name</a></h4> -->
 </div>
 
@@ -21,6 +22,8 @@
 [![PostgreSQL][PostgreSQL]][PostgreSQL-url]
 [![MySQL][MySQL]][MySQL-url]
 [![MongoDB][MongoDB]][MongoDB-url]
+[![Oracle][Oracle]][Go-url] 
+[![Greenplum][Greenplum]][Go-url]
 [![Linux][Linux]][Linux-url]
 
 [![HTML5][HTML5]][HTML5-url]
@@ -29,20 +32,19 @@
 [![PHP][PHP]][PHP-url]
 
 <br>
-
 <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
   <img src="https://github.com/TiZir/TiZir/blob/main/Image/stat_git.gif" width="70px" style="margin-right: 10px;">
   <h2 style="margin: 0;">My Github Stats</h2>
 </div>
+
 
 <br>
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=TiZir&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TiZir&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
-
+<!--
 <br>
-
 <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
   <img src="https://github.com/TiZir/TiZir/blob/main/Image/pin.gif" width="50px" style="margin-right: 10px;">
   <h2 style="margin: 0;">Pinned Projects</h2>
@@ -69,7 +71,6 @@
 </div>
 
 <br>
-
 <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
   <img src="https://github.com/TiZir/TiZir/blob/main/Image/cur.gif" width="40px" style="margin-right: 10px;">
   <h2 style="margin: 0;">Currently working on</h2>
@@ -80,9 +81,8 @@
         <img width='40%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TiZir&repo=service_with_enrichment&border_color=EE4779&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00BAE9" />
     </a>
 </div>
-
+-->
 <br>
-
 <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
   <img src="https://github.com/TiZir/TiZir/blob/main/Image/contact.gif" width="60px" style="margin-right: 10px;">
   <h2 style="margin: 0;">Contact Me</h2>
@@ -131,3 +131,7 @@
 [Git-url]: https://git-scm.com/
 [PHP]: https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&labelColor=white
 [PHP-url]: https://www.php.net/
+[Oracle]: https://img.shields.io/badge/-oracle-F80000?style=for-the-badge&logo=oracle&labelColor=orange
+[Oracle-url]: https://www.oracle.com
+[Greenplum]: https://img.shields.io/badge/-greenplum-006400?style=for-the-badge&logo=greenplum&labelColor=black
+[Greenplum-url]: https://greenplum.org
