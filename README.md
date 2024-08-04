@@ -1,4 +1,4 @@
-<h1 align="center">Hello there!</h1>
+<h1 align="center">Hi 👋, I'm Danila Tikhonov</h1>
 
 <div class="container" style="font-size: 20px">
     <img src="https://github.com/TiZir/TiZir/blob/main/Image/hi.gif" align="right" width="300px" height="300px">&nbsp;
